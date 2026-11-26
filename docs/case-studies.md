@@ -16,6 +16,12 @@
 
 **Operating approach:** Staged lifecycle work, compatibility checks, repeatable infrastructure and collaboration with Microsoft AKS engineering. Technical and business outcomes are described in the resume.
 
+## HPC and GPU reliability at P&G
+
+**My contribution:** Secure HPC/GPU operations covering LDAP, SSH hardening, VPNs, network routing, Linux kernels and NVIDIA/AMD drivers. Owner-confirmed hardware scope includes NVIDIA H100/B200 and AMD Instinct MI325X. Work includes RDMA, stress testing, Slurm scheduling and PyTorch/JAX runtime behavior, with CUDA/NCCL and NVLink/NVSwitch specific to NVIDIA systems.
+
+**Scope:** This is P&G experience through June 2025. It does not claim dedicated HKAIVERSE GPU ownership. MI355X is excluded pending a specific early-evaluation date.
+
 ## Enterprise GenAI at AT&T
 
 **Business need:** Reduce manual work in contract/document analysis and other operating processes.
@@ -29,6 +35,8 @@
 **Context:** Concurrent independent engagements since May 2026.
 
 **HKAIVERSE:** Recruiting and learner workflow design, Kai voice-agent session/transcript/webhook and consent controls, FastAPI/Azure Container Apps backend architecture, Cosmos DB, Entra identity, App Configuration/Key Vault startup loading, and CI/CD security controls.
+
+**Foundry and MCP / end-to-end FDE ownership:** Translate business requirements into applications and application-led MCP services hosted on Azure Container Apps, connected to central Microsoft Foundry agents for cost, contract and PDF analysis. Own architecture, Azure delivery, Application Insights, observability, monitoring and operational feedback. Agent Hub at AT&T remains a distinct App Service application.
 
 **Leanova:** Website delivery and GenAI architecture for operational improvement, including document-ingestion adapter and source-grounding POC architecture.
 
